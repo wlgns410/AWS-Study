@@ -1,7 +1,5 @@
 # AWS IAM MFA
 
-- AWS Root 계정에 MFA 2차 보안 인증이 세팅되어 있을 때
-
 <br>
 
 아래와 같은 순서를 따른다.
@@ -29,7 +27,7 @@ AWS IAM - 액세스 관리 - 사용자 탭 에서 사용자 추가를 누른다.
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 3 44 40" src="https://user-images.githubusercontent.com/81137234/225836011-f8deba89-dbca-4386-9295-3bfdc2651f52.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 3 44 40" src="https://user-images.githubusercontent.com/81137234/225836011-f8deba89-dbca-4386-9295-3bfdc2651f52.png">
 
 <br>
 
@@ -37,7 +35,7 @@ AWS IAM - 액세스 관리 - 사용자 탭 에서 사용자 추가를 누른다.
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 3 45 34" src="https://user-images.githubusercontent.com/81137234/225836110-a46566bd-acbb-43c1-9f7c-14bcbffc5d8f.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 3 45 34" src="https://user-images.githubusercontent.com/81137234/225836110-a46566bd-acbb-43c1-9f7c-14bcbffc5d8f.png">
 
 <br>
 
@@ -45,7 +43,7 @@ AWS IAM - 액세스 관리 - 사용자 탭 에서 사용자 추가를 누른다.
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 3 46 24" src="https://user-images.githubusercontent.com/81137234/225836200-b9064650-26fd-4f75-b5b7-0239a9b70fae.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 3 46 24" src="https://user-images.githubusercontent.com/81137234/225836200-b9064650-26fd-4f75-b5b7-0239a9b70fae.png">
 
 <br>
 
@@ -62,7 +60,7 @@ IAM - 액세스 관리 - 역할 탭으로 이동한다.
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 3 48 35" src="https://user-images.githubusercontent.com/81137234/225836446-f318bc27-553f-4f31-9e33-0a19014059ba.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 3 48 35" src="https://user-images.githubusercontent.com/81137234/225836446-f318bc27-553f-4f31-9e33-0a19014059ba.png">
 
 <br>
 
@@ -71,9 +69,9 @@ Root 에서 MFA 2차 인증을 해주었기 때문에 MFA 체크박스를 눌러
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 3 51 18" src="https://user-images.githubusercontent.com/81137234/225836562-4f42facc-d418-44fa-9cc0-7690106d8929.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 3 51 18" src="https://user-images.githubusercontent.com/81137234/225836562-4f42facc-d418-44fa-9cc0-7690106d8929.png">
 
-<img width="500" alt="스크린샷 2022-05-17 오후 3 51 05" src="https://user-images.githubusercontent.com/81137234/225836580-178a31f4-9ee2-4b10-b69a-12809933d780.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 3 51 05" src="https://user-images.githubusercontent.com/81137234/225836580-178a31f4-9ee2-4b10-b69a-12809933d780.png">
 
 <br>
 
@@ -87,7 +85,7 @@ Admin 권한은 CTO 님만 설정하였고, biling을 담당하는 직원분에�
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 3 56 04" src="https://user-images.githubusercontent.com/81137234/225837129-88c2d6e1-3c2c-4a92-a88a-4b4fc5373607.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 3 56 04" src="https://user-images.githubusercontent.com/81137234/225837129-88c2d6e1-3c2c-4a92-a88a-4b4fc5373607.png">
 
 <br>
 
@@ -95,7 +93,7 @@ Admin 권한은 CTO 님만 설정하였고, biling을 담당하는 직원분에�
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 3 57 21" src="https://user-images.githubusercontent.com/81137234/225837468-eb556f85-aee6-4d7a-8161-ede63b850b45.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 3 57 21" src="https://user-images.githubusercontent.com/81137234/225837468-eb556f85-aee6-4d7a-8161-ede63b850b45.png">
 
 <br>
 
@@ -105,7 +103,7 @@ MFA 세팅 버튼을 누르고 상위의 A Virtual MFA device 체크를 한다.
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 4 00 13" src="https://user-images.githubusercontent.com/81137234/225837712-371cd525-fccb-419c-9510-70a5e3ad1d44.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 4 00 13" src="https://user-images.githubusercontent.com/81137234/225837712-371cd525-fccb-419c-9510-70a5e3ad1d44.png">
 
 <br>
 
@@ -113,7 +111,7 @@ MFA 세팅 버튼을 누르고 상위의 A Virtual MFA device 체크를 한다.
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 4 02 26" src="https://user-images.githubusercontent.com/81137234/225837806-839c7f01-c143-467d-8596-ad813320043a.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 4 02 26" src="https://user-images.githubusercontent.com/81137234/225837806-839c7f01-c143-467d-8596-ad813320043a.png">
 
 <br>
 
@@ -122,7 +120,7 @@ MFA 세팅 버튼을 누르고 상위의 A Virtual MFA device 체크를 한다.
 
 <br>
 
-<img width="633" alt="스크린샷 2022-05-17 오후 4 02 58" src="https://user-images.githubusercontent.com/81137234/225838017-c18efbe6-355b-40b2-a32a-d96c5b8281a6.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 4 02 58" src="https://user-images.githubusercontent.com/81137234/225838017-c18efbe6-355b-40b2-a32a-d96c5b8281a6.png">
 
 <br>
 
@@ -130,7 +128,7 @@ MFA 세팅 버튼을 누르고 상위의 A Virtual MFA device 체크를 한다.
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 4 06 34" src="https://user-images.githubusercontent.com/81137234/225838252-eb79f9b4-9cf7-4d5e-9823-cdaa5d7ec7cb.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 4 06 34" src="https://user-images.githubusercontent.com/81137234/225838252-eb79f9b4-9cf7-4d5e-9823-cdaa5d7ec7cb.png">
 
 <br>
 
@@ -138,7 +136,7 @@ IAM - 사용자 - 권한부여한 사용자이름 이동해서 사용자 ARN을 
 
 <br>
 
-<img width="884" alt="스크린샷 2022-05-17 오후 4 05 02" src="https://user-images.githubusercontent.com/81137234/225838444-0f3ec605-a28a-4e73-abcc-dbb384f023f3.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 4 05 02" src="https://user-images.githubusercontent.com/81137234/225838444-0f3ec605-a28a-4e73-abcc-dbb384f023f3.png">
 
 <br>
 
@@ -149,7 +147,7 @@ IAM - 역할 - 설정한 역할이름입력 - 신뢰관계 탭으로 이동해�
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 4 09 20" src="https://user-images.githubusercontent.com/81137234/225838626-ffcd5f81-92ab-43a4-8f36-07134e8a16a7.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 4 09 20" src="https://user-images.githubusercontent.com/81137234/225838626-ffcd5f81-92ab-43a4-8f36-07134e8a16a7.png">
 
 <br>
 
@@ -157,7 +155,7 @@ IAM - 역할 - 그룹명입력 해서 콘솔 역할전환링크를 복사해 놓
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 4 14 17" src="https://user-images.githubusercontent.com/81137234/225838839-6239e659-fd06-4373-b703-f1c59f75e9c9.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 4 14 17" src="https://user-images.githubusercontent.com/81137234/225838839-6239e659-fd06-4373-b703-f1c59f75e9c9.png">
 
 <br>
 
@@ -167,7 +165,7 @@ https://0000000000000.signin.aws.amazon.com/console 라는 데이터가 있을�
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 4 14 11" src="https://user-images.githubusercontent.com/81137234/225839155-42d2e2cd-fa7f-4fb4-9753-40aa7d4d687e.png">
+<img width="400" alt="스크린샷 2022-05-17 오후 4 14 11" src="https://user-images.githubusercontent.com/81137234/225839155-42d2e2cd-fa7f-4fb4-9753-40aa7d4d687e.png">
 
 <br>
 
@@ -175,7 +173,7 @@ iam 계정 생성했을 때 id, pw를 입력한다.
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 4 18 35" src="https://user-images.githubusercontent.com/81137234/225839198-f8011bc1-b6f3-4664-8f69-c45b9822a3db.png">
+<img width="400" alt="스크린샷 2022-05-17 오후 4 18 35" src="https://user-images.githubusercontent.com/81137234/225839198-f8011bc1-b6f3-4664-8f69-c45b9822a3db.png">
 
 <br>
 
@@ -184,7 +182,7 @@ iam 계정 생성했을 때 id, pw를 입력한다.
 
 <br>
 
-<img width="500" alt="스크린샷 2022-05-17 오후 4 19 03" src="https://user-images.githubusercontent.com/81137234/225839328-c720c9ce-c9f1-4a16-a8fe-d635166428b1.png">
+<img width="600" alt="스크린샷 2022-05-17 오후 4 19 03" src="https://user-images.githubusercontent.com/81137234/225839328-c720c9ce-c9f1-4a16-a8fe-d635166428b1.png">
 
 <br>
 
