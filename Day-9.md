@@ -50,8 +50,8 @@
 
 <br>
 
-<img width="842" alt="스크린샷 2023-03-23 오후 1 57 57" src="https://user-images.githubusercontent.com/81137234/227107500-f50ecc28-976e-4d46-8a9c-4fb823a7b8cf.png">
-<img width="1001" alt="스크린샷 2023-03-23 오후 1 57 21" src="https://user-images.githubusercontent.com/81137234/227107520-eeed7841-7b36-4790-9540-7787b468d9e5.png">
+<img width="500" alt="스크린샷 2023-03-23 오후 1 57 57" src="https://user-images.githubusercontent.com/81137234/227107500-f50ecc28-976e-4d46-8a9c-4fb823a7b8cf.png">
+<img width="500" alt="스크린샷 2023-03-23 오후 1 57 21" src="https://user-images.githubusercontent.com/81137234/227107520-eeed7841-7b36-4790-9540-7787b468d9e5.png">
 
 <br>
 
